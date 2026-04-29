@@ -1,5 +1,8 @@
 # SilentKeys
-An exploration of keystroke logging technology—how it works behind the scenes, its ethical implications, and how to defend against it.
+#An exploration of keystroke logging #technology—how it works behind the #scenes, its ethical implications, and #how to defend against it.
+
+
+#Code
 from pynput.keyboard import Key, Listener
 import logging
 
